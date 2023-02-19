@@ -1,0 +1,2 @@
+# quantumultx_setings
+individual
